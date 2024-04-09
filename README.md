@@ -1,8 +1,5 @@
 <img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/Poster.png"></img>
-# Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project
-
-
-# Bing News Data Analytics Project using Microsoft Azure Technologies
+# Bing News End-to-End Microsoft Azure Fabric Data Engineering Project
 
 ## Introduction
 This project aims to perform data analytics on news data obtained from the Bing News API utilizing various Microsoft Azure technologies. The process involves data ingestion, transformation, sentiment analysis, semantic modeling, and visualization using Azure Data Factory, Azure Databricks, Azure Synapse Analytics, and Power BI. The end goal is to provide actionable insights from news data and automate the dissemination of positive news articles through email triggers.
