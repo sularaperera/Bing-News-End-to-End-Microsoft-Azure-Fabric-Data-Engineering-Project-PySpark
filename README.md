@@ -11,6 +11,8 @@ Azure Data Factory provides a robust platform for orchestrating and automating d
 
 <img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/Workspace.png"></img>
 
+<img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/Data%20Pipeline.png"></img>
+
 
 ### 2. Data Transformation with PySpark Notebook
 Created a PySpark notebook to read the JSON data from the Lakehouse Files folder.
