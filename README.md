@@ -9,11 +9,16 @@ This project aims to perform data analytics on news data obtained from the Bing 
 Utilized Azure Data Factory to ingest JSON data from the Bing News API into Lakehouse files folder.
 Azure Data Factory provides a robust platform for orchestrating and automating data workflows, ensuring reliable and scalable data ingestion.
 
+<img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/Poster.png"></img>
+
+
 ### 2. Data Transformation with PySpark Notebook
 Created a PySpark notebook to read the JSON data from the Lakehouse Files folder.
 Utilized the Explode() function to parse JSON object elements and extract necessary data into a dataframe.
 Implemented a type 1 incremental load using Spark SQL Merge Into to load data into a Delta table.
 Delta tables offer ACID transactions and time travel capabilities, ensuring data integrity and efficient data manipulation.
+
+<ahref = "https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/process_bing_news.ipynb">Link to PySpark Notebook</ahref>
 
 ### 3. Sentiment Analysis with PySpark and Azure SynapseML
 Developed a PySpark notebook to further analyze the Delta table created in the previous step.
