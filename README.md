@@ -27,6 +27,8 @@ Developed a PySpark notebook to further analyze the Delta table created in the p
 Utilized Azure SynapseML's AnalyzeText() function to perform sentiment analysis on the "description" data within the dataframe.
 Implemented type 1 incremental load with Merge Into to append sentiment analysis results to the Delta table.
 
+<img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/delta%20table%20semantic%20data.png"></img>
+
 ### 4. Semantic Modeling with Azure Synapse Analytics
 Leveraged Azure Synapse Analytics to create a Semantic Model from the Delta table containing sentiment analysis data (tbl_sentiment_analysis).
 Extended the data model by adding new measures to calculate percentages of positive, negative, and neutral news articles.
