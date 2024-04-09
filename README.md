@@ -23,11 +23,12 @@ Delta tables offer ACID transactions and time travel capabilities, ensuring data
 <a href="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/process_bing_news.ipynb">PySpark Notebook - Transormation 1</a>
 
 
-
 ### 3. Sentiment Analysis with PySpark and Azure SynapseML
 Developed a PySpark notebook to further analyze the Delta table created in the previous step.
 Utilized Azure SynapseML's AnalyzeText() function to perform sentiment analysis on the "description" data within the dataframe.
 Implemented type 1 incremental load with Merge Into to append sentiment analysis results to the Delta table.
+
+<a href="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/news-sentiment-analysis.ipynb">PySpark Notebook - Transormation 2</a>
 
 <img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/delta%20table%20semantic%20data.png"></img>
 
