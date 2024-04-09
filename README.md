@@ -32,6 +32,9 @@ Leveraged Azure Synapse Analytics to create a Semantic Model from the Delta tabl
 Extended the data model by adding new measures to calculate percentages of positive, negative, and neutral news articles.
 Semantic modeling provides a structured framework for organizing and analyzing data, enabling intuitive exploration and understanding of data insights.
 
+<img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/Semantic%20Model.png"></img>
+
+
 ### 5. Data Visualization with Power BI
 Developed a Power BI report to visualize the data from the Semantic Model.
 Utilized various visualizations such as tables, slicers, and cards to present key metrics and trends.
