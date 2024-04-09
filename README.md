@@ -9,7 +9,7 @@ This project aims to perform data analytics on news data obtained from the Bing 
 Utilized Azure Data Factory to ingest JSON data from the Bing News API into Lakehouse files folder.
 Azure Data Factory provides a robust platform for orchestrating and automating data workflows, ensuring reliable and scalable data ingestion.
 
-<img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/Poster.png"></img>
+<img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/Workspace.png"></img>
 
 
 ### 2. Data Transformation with PySpark Notebook
