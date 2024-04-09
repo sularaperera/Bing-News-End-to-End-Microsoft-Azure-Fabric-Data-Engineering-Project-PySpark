@@ -57,6 +57,6 @@ Data Activator enables automation of data-driven actions based on predefined cri
 <img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/data%20activator.png"></img>
 
 ## Conclusion
-Through the integration of Microsoft Azure technologies, this project demonstrates a comprehensive approach to data engineering and analytics, from ingestion to visualization and automation. By leveraging Azure services such as Data Factory, Databricks, Synapse Analytics, and Power BI, organizations can effectively harness the power of their data to drive informed decisions and achieve strategic objectives.
+Through the integration of Microsoft Azure and Fabric technologies, this project demonstrates a comprehensive approach to data engineering and analytics, from ingestion to visualization and automation. By leveraging services such as Data Factory, Fabric Notebooks, Synapse Analytics, and Power BI, organizations can effectively harness the power of their data to drive informed decisions and achieve strategic objectives.
 
 
