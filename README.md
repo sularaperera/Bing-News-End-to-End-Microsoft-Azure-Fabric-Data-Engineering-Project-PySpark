@@ -20,7 +20,9 @@ Utilized the Explode() function to parse JSON object elements and extract necess
 Implemented a type 1 incremental load using Spark SQL Merge Into to load data into a Delta table.
 Delta tables offer ACID transactions and time travel capabilities, ensuring data integrity and efficient data manipulation.
 
-<ahref = "https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/process_bing_news.ipynb">Link to PySpark Notebook</ahref>
+<a href="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/process_bing_news.ipynb">PySpark Notebook - Transormation 1</a>
+
+
 
 ### 3. Sentiment Analysis with PySpark and Azure SynapseML
 Developed a PySpark notebook to further analyze the Delta table created in the previous step.
