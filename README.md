@@ -40,6 +40,11 @@ Developed a Power BI report to visualize the data from the Semantic Model.
 Utilized various visualizations such as tables, slicers, and cards to present key metrics and trends.
 Power BI enables interactive and insightful data exploration, empowering users to gain actionable insights from the data.
 
+<img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/powerr%20bi%20page%201.png"></img>
+
+<img src="https://github.com/sularaperera/Bing-News-End-to-End-Microsoft-Azure-Fabric-Data-Engineering-Project-PySpark/blob/main/Images/powerr%20bi%20page%202.png"></img>
+
+
 ### 6. Automation with Data Activator
 Implemented an email trigger using the Data Activator tool to send emails to users whenever positive news articles are received.
 Data Activator enables automation of data-driven actions based on predefined criteria, enhancing operational efficiency and proactive decision-making.
